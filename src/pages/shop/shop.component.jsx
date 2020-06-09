@@ -4,6 +4,7 @@ import  CollectionsOverview from '../../components/collections-overview/collecti
 
 import { Route } from 'react-router-dom';
 import CollectionPage from '../collection/collection.component';
+import './shop.styles.scss';
 
 
 const ShopPage = ({ match }) => (
