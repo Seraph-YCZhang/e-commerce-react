@@ -1,6 +1,9 @@
 # CORWN CLOTHING WEBSITE
 [![Build Status](https://travis-ci.org/Seraph-YCZhang/e-commerce-react.svg?branch=master)](https://travis-ci.org/Seraph-YCZhang/e-commerce-react)
-This is a E-commerce website created with [Create React App](https://github.com/facebook/create-react-app).
+
+## This is a E-commerce website created with [Create React App](https://github.com/facebook/create-react-app).
+
+## Live Website : https://crwn-cloting-live.herokuapp.com/
 
 ## Available Scripts
 
