@@ -20,14 +20,16 @@ const INITIAL_STATE = {
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          // imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://review.chinabrands.com/chinabrands/seo/image/20181107/fashion-clothing-.jpg',
           size: 'large',
           id: 4,
           linkUrl: 'shop/womens'
         },
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          // imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://2j6jnda3hor2rfqci2oskova-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Yoox-Mens-Clothing-Store-Online.jpg',
           size: 'large',
           id: 5,
           linkUrl: 'shop/mens'

@@ -9,6 +9,7 @@ const OptionContainerStyles = css`
 export const HeaderContainer = styled.div`
     height: 70px;
     width: 100%;
+    /* position: fixed; */
     display: flex;
     justify-content: space-between;
     margin-bottom: 25px;
