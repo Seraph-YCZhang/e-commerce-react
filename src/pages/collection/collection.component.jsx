@@ -2,7 +2,7 @@ import React from 'react';
 import CollectionItem from '../../components/collection-item/collection-item.component';
 import { connect } from 'react-redux';
 import './collection.styles.scss';
-import { selecCollection } from '../../redux/shop/shop.selector';
+import { selecCollection } from '../../redux/shop/shop.selectors';
 
 const CollectionPage = ({ collection }) => {
     const { title, items } = collection;
